@@ -47,7 +47,7 @@
 // 
 // Usage:
 // 
-//  > linkify( text [, options ] );
+//  > var html = linkify( text [, options ] );
 // 
 // Arguments:
 // 
